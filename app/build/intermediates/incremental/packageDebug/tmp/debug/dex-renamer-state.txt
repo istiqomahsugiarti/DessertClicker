@@ -1,0 +1,4 @@
+#Wed May 17 21:30:21 ICT 2023
+base.0=D\:\\SEM 2\\Project AS GitHub\\DessertClicker\\DessertClickerFinal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
